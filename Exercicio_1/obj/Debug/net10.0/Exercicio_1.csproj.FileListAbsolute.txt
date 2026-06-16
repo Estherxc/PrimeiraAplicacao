@@ -1,0 +1,15 @@
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.AssemblyInfoInputs.cache
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.AssemblyInfo.cs
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.csproj.CoreCompileInputs.cache
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.sourcelink.json
+/workspaces/PrimeiraAplicacao/Exercicio_1/bin/Debug/net10.0/Exercicio_1
+/workspaces/PrimeiraAplicacao/Exercicio_1/bin/Debug/net10.0/Exercicio_1.deps.json
+/workspaces/PrimeiraAplicacao/Exercicio_1/bin/Debug/net10.0/Exercicio_1.runtimeconfig.json
+/workspaces/PrimeiraAplicacao/Exercicio_1/bin/Debug/net10.0/Exercicio_1.dll
+/workspaces/PrimeiraAplicacao/Exercicio_1/bin/Debug/net10.0/Exercicio_1.pdb
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.dll
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/refint/Exercicio_1.dll
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.pdb
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/Exercicio_1.genruntimeconfig.cache
+/workspaces/PrimeiraAplicacao/Exercicio_1/obj/Debug/net10.0/ref/Exercicio_1.dll
